@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="Pictures/python.png" alt="Python" width="400"/>
+  <img src="Pictures/python.jpg" alt="Python" width="400"/>
 </p>
 
 
