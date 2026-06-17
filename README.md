@@ -1,6 +1,3 @@
-# Python
-âœ… A Complete Python Learning Repository
-
 
 # Python Learning Tutorial   
 
@@ -12,7 +9,7 @@
 
 
 <p align="center">
-  <img src="Pictures/python.jpg" alt="Python" width="400"/>
+  <img src="Pictures/python.jpg" alt="Python" width="450"/>
 </p>
 
 
@@ -29,6 +26,16 @@ This repo contains Tutorial files for professional Python: OOP - Variables - Dat
 | Module | Topic | Description | File |
 |--------|-------|-------------|------|
 | **01** | Python | Variables, types, control flow, functions, classes, iterables, advanced OOP | ... |
+
+---
+
+## Projects   
+
+
+| Name | Description | Files |
+|------|-------|------|
+| **Online Quiz Platform** | A quiz platform for students | (Files)[Projects/Online_Quiz_Platform] |
+
 
 ---
 
