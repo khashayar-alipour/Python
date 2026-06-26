@@ -25,7 +25,9 @@ This repo contains Tutorial files for professional Python: OOP - Variables - Dat
 
 | Module | Topic | Description | File |
 |--------|-------|-------------|------|
-| **01** | Python | Variables, types, control flow, functions, classes, iterables, advanced OOP | ... |
+| **01** | Python | Arithmatic, Comparison, Logical, Membership ... operators | [operators.py](Tutorials/operators.py) |
+| **02** | Python | Slicing, Casting, Datastructure, Datatype methods, variables | [datatypes.py](Tutorials/datatypes.py) |
+| **03** | Python | conditional statements, ternary operators, for-while loop, breake-continue | [loops.py](Tutorials/loops.py) |
 
 ---
 
@@ -63,6 +65,14 @@ AI/
 │
 │
 ├── Tutorials/
+│        ├── operators.py
+│        ├── datatypes.py
+│        ├── loops.py
+│        ├── functions.py
+│        ├──
+│        ├──
+│        └──
+│
 │
 ├── Projects
 │   └── Online_Quiz_Platform
@@ -84,7 +94,7 @@ AI/
 
 2. **Dependencies** (recommended: Conda or venv)   
    ```bash
-   conda create -n ai_eng python=3.10
+   conda create -n py_tut python=3.10
    conda activate py_tut
    pip install python sqlalchemy
    ```
