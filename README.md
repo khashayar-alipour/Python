@@ -28,6 +28,8 @@ This repo contains Tutorial files for professional Python: OOP - Variables - Dat
 | **01** | Python | Arithmatic, Comparison, Logical, Membership ... operators | [operators.py](Tutorials/operators.py) |
 | **02** | Python | Slicing, Casting, Datastructure, Datatype methods, variables | [datatypes.py](Tutorials/datatypes.py) |
 | **03** | Python | conditional statements, ternary operators, for-while loop, breake-continue | [loops.py](Tutorials/loops.py) |
+| **04** | Python | built-in functions, function types, function inputs, *args - **kwargs | [functions.py](Tutorials/functions.py) |
+| **05** | OOP | class, dunder methods, inheritance, polymorphism, encapsulation, abstract, class methods, `@property`, `@staticmethod`, `@classmethod`, `@property` | [OOP.py](Tutorials/OOP.py) |
 
 ---
 
@@ -69,7 +71,7 @@ AI/
 │        ├── datatypes.py
 │        ├── loops.py
 │        ├── functions.py
-│        ├──
+│        ├── OOP.py
 │        ├──
 │        └──
 │
