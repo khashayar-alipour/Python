@@ -25,11 +25,15 @@ This repo contains Tutorial files for professional Python: OOP - Variables - Dat
 
 | Module | Topic | Description | File |
 |--------|-------|-------------|------|
-| **01** | Python | Arithmatic, Comparison, Logical, Membership ... operators | [operators.py](Tutorials/operators.py) |
-| **02** | Python | Slicing, Casting, Datastructure, Datatype methods, variables | [datatypes.py](Tutorials/datatypes.py) |
-| **03** | Python | conditional statements, ternary operators, for-while loop, breake-continue | [loops.py](Tutorials/loops.py) |
-| **04** | Python | built-in functions, function types, function inputs, *args - **kwargs | [functions.py](Tutorials/functions.py) |
+| **01** | Python operators | Arithmatic, Comparison, Logical, Membership ... operators | [operators.py](Tutorials/operators.py) |
+| **02** | Python datatypes | Slicing, Casting, Datastructure, Datatype methods, variables | [datatypes.py](Tutorials/datatypes.py) |
+| **03** | loops | conditional statements, ternary operators, for-while loop, breake-continue | [loops.py](Tutorials/loops.py) |
+| **04** | functions | built-in functions, function types, function inputs, *args - **kwargs | [functions.py](Tutorials/functions.py) |
 | **05** | OOP | class, dunder methods, inheritance, polymorphism, encapsulation, abstract, class methods, `@property`, `@staticmethod`, `@classmethod`, `@property` | [OOP.py](Tutorials/OOP.py) |
+| **06** | Database | Database basics, table, MySQL | [database.py](Tutorials/database.py) |
+| **07** | SQLalchemy | SQLalchemy basics, ORM, SQLite | [sqlalchemy.py](Tutorials/sqlalchemy.py) |
+| **08** | python error types | all types of error in python, `ValueError`, `TypeError, `AttributeError`, ... | [errors.py](Tutorials/errors.py) |
+
 
 ---
 
@@ -72,6 +76,10 @@ AI/
 │        ├── loops.py
 │        ├── functions.py
 │        ├── OOP.py
+│        ├── database.py
+│        ├── sqlalchemy.py
+│        ├── errors.py
+│        ├──
 │        ├──
 │        └──
 │
